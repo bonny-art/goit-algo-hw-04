@@ -1,0 +1,34 @@
+Результати для Merge Sort:
+Tiny (10): 0.07 мс
+Small (100): 0.93 мс
+Medium (1000): 12.62 мс
+Large (10000): 166.97 мс
+Almost Sorted (10000): 156.23 мс
+
+Результати для Insertion Sort:
+Tiny (10): 0.01 мс
+Small (100): 0.17 мс
+Medium (1000): 14.78 мс
+Large (10000): 1562.17 мс
+Almost Sorted (10000): 106.83 мс
+
+Результати для Bubble Sort Basic:
+Tiny (10): 0.03 мс
+Small (100): 1.63 мс
+Medium (1000): 200.98 мс
+Large (10000): 21251.64 мс
+Almost Sorted (10000): 21125.58 мс
+
+Результати для Bubble Sort Optimized:
+Tiny (10): 0.01 мс
+Small (100): 0.03 мс
+Medium (1000): 0.42 мс
+Large (10000): 4.07 мс
+Almost Sorted (10000): 4.05 мс
+
+Результати для Timsort (sorted):
+Tiny (10): 0.0 мс
+Small (100): 0.01 мс
+Medium (1000): 0.06 мс
+Large (10000): 0.51 мс
+Almost Sorted (10000): 0.55 мс
